@@ -6,8 +6,10 @@ PyTorch使用入门
 
 ### 目录
 
-[01一维线性回归模型](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/01LinearRegression)
+[01 一维线性回归模型](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/01LinearRegression)
 <br></br>
-[02多项式回归模型](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/02PolyRegression)
+[02 多项式回归模型](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/02PolyRegression)
 <br></br>
-[03Logistic回归](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/03Logistic)
+[03 Logistic回归](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/03Logistic)
+<br></br>
+[04 FC实现MNIST手写数字识别](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/04FConMNIST)
