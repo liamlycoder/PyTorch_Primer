@@ -13,3 +13,5 @@ PyTorch使用入门
 [03 Logistic回归](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/03Logistic)
 <br></br>
 [04 FC实现MNIST手写数字识别](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/04FConMNIST)
+<br></br>
+[05 CNN实现MNIST手写数字识别](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/05CNNonMNIST)
