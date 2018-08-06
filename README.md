@@ -15,3 +15,5 @@ PyTorch使用入门
 [04 FC实现MNIST手写数字识别](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/04FConMNIST)
 <br></br>
 [05 CNN实现MNIST手写数字识别](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/05CNNonMNIST)
+<br></br>
+[06 PyTorch搭建循环神经网络](https://github.com/Luyu-Liam/PyTorch_Primer/tree/master/PyTorch_Primer/06RNN_demo)
